@@ -1,0 +1,3 @@
+1001,1234,John Doe,500.0,false
+1002,5555,Jane Lee,1200.50,false
+9001,admin77,Bank Manager,0.0,true
